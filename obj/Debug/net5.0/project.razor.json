@@ -15649,6 +15649,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Netcore\\Demo\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Netcore\\Demo\\Views\\HelloWorld\\Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15661,26 @@
     {
       "FilePath": "c:\\Netcore\\Demo\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Netcore\\Demo\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Netcore\\Demo\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Netcore\\Demo\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Netcore\\Demo\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
